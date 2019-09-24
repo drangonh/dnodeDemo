@@ -1,0 +1,12 @@
+[2019-09-19T09:45:14.216] [INFO] cheese - 响应时间为0.067s
+[2019-09-19T09:45:14.335] [INFO] cheese - 响应时间为0.002s
+[2019-09-19T09:45:14.582] [INFO] cheese - 响应时间为0.001s
+[2019-09-19T09:45:14.586] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/favicon.ico","host":"localhost:3000","message":"Not Found","referer":"http://localhost:3000/","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"}
+[2019-09-19T09:45:18.565] [INFO] cheese - 响应时间为0.001s
+[2019-09-19T11:30:58.281] [INFO] cheese - 响应时间为0.005s
+[2019-09-19T17:01:11.124] [INFO] cheese - 响应时间为0.018s
+[2019-09-19T17:01:11.140] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/home/121","host":"localhost:3000","message":"Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"}
+[2019-09-19T17:12:21.014] [INFO] cheese - 响应时间为0.003s
+[2019-09-19T17:12:21.018] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/home/121","host":"localhost:3000","message":"Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"}
+[2019-09-19T17:12:35.011] [INFO] cheese - 响应时间为0.018s
+[2019-09-19T17:12:35.031] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/home/121","host":"localhost:3000","message":"错误页渲染失败Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"}
