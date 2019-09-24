@@ -1,0 +1,15 @@
+[2019-05-16T10:44:52.251] [INFO] cheese - 响应时间为0.097s
+[2019-05-16T10:44:52.587] [INFO] cheese - 响应时间为0.004s
+[2019-05-16T10:45:41.780] [INFO] cheese - 响应时间为0.084s
+[2019-05-16T10:45:41.894] [INFO] cheese - 响应时间为0.003s
+[2019-05-17T11:54:33.960] [ERROR] cheese - something wrong
+[2019-05-17T11:54:34.015] [INFO] cheese - 响应时间为0.101s
+[2019-05-17T11:54:34.075] [INFO] cheese - 响应时间为0.003s
+[2019-05-17T11:54:49.617] [ERROR] cheese - something wrong
+[2019-05-17T11:54:49.618] [INFO] cheese - 响应时间为0.008s
+[2019-05-17T11:58:53.563] [ERROR] cheese - something wrong
+[2019-05-17T11:58:53.650] [INFO] cheese - 响应时间为0.11s
+[2019-05-17T11:58:53.713] [INFO] cheese - 响应时间为0.006s
+[2019-05-17T12:06:41.204] [ERROR] cheese - something wrong
+[2019-05-17T12:06:41.269] [INFO] cheese - 响应时间为0.106s
+[2019-05-17T12:06:41.332] [INFO] cheese - 响应时间为0.005s

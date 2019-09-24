@@ -1,0 +1,12 @@
+[2019-05-17T12:14:12.326] [ERROR] cheese - something wrong
+[2019-05-17T12:14:12.395] [INFO] cheese - 响应时间为0.118s
+[2019-05-17T12:14:12.462] [INFO] cheese - 响应时间为0.004s
+[2019-05-17T12:22:48.658] [ERROR] cheese - something wrong
+[2019-05-17T12:22:48.722] [INFO] cheese - 响应时间为0.096s
+[2019-05-17T12:22:48.792] [INFO] cheese - 响应时间为0.005s
+[2019-05-17T14:20:12.011] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":"something wrong","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"}
+[2019-05-17T14:20:12.053] [INFO] cheese - 响应时间为0.072s
+[2019-05-17T14:20:12.145] [INFO] cheese - 响应时间为0.004s
+[2019-05-17T14:34:08.308] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.2.154","method":"GET","url":"/","host":"localhost:3000","message":"something wrong","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"}
+[2019-05-17T14:34:08.351] [INFO] cheese - 响应时间为0.074s
+[2019-05-17T14:34:08.412] [INFO] cheese - 响应时间为0.004s

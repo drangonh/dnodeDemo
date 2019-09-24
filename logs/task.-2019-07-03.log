@@ -1,0 +1,43 @@
+[2019-07-03T10:30:57.006] [INFO] cheese - 响应时间为0.055s
+[2019-07-03T10:30:57.523] [INFO] cheese - 响应时间为0.004s
+[2019-07-03T10:30:57.774] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T10:30:57.779] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/favicon.ico","host":"localhost:3000","message":"Not Found","referer":"http://localhost:3000/","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
+[2019-07-03T10:31:12.387] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T11:13:09.789] [INFO] cheese - 响应时间为0.009s
+[2019-07-03T11:13:09.921] [INFO] cheese - 响应时间为0.005s
+[2019-07-03T16:17:00.234] [INFO] cheese - 响应时间为0.127s
+[2019-07-03T16:17:00.288] [INFO] cheese - 响应时间为0.006s
+[2019-07-03T16:19:03.296] [INFO] cheese - 响应时间为0.004s
+[2019-07-03T16:19:03.398] [INFO] cheese - 响应时间为0.003s
+[2019-07-03T16:19:07.134] [INFO] cheese - 响应时间为0.008s
+[2019-07-03T16:19:07.152] [INFO] cheese - 响应时间为0.005s
+[2019-07-03T16:19:09.509] [INFO] cheese - 响应时间为0.022s
+[2019-07-03T16:19:09.520] [INFO] cheese - 响应时间为0.001s
+[2019-07-03T16:20:27.346] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:20:27.376] [INFO] cheese - 响应时间为0.005s
+[2019-07-03T16:20:33.532] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:20:33.538] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/index","host":"localhost:3000","message":"Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
+[2019-07-03T16:20:37.568] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:20:47.599] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:20:47.603] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/home/index","host":"localhost:3000","message":"Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
+[2019-07-03T16:39:20.982] [INFO] cheese - 响应时间为0.012s
+[2019-07-03T16:39:21.079] [INFO] cheese - 响应时间为0.003s
+[2019-07-03T16:39:24.631] [INFO] cheese - 响应时间为0.006s
+[2019-07-03T16:39:24.653] [INFO] cheese - 响应时间为0.005s
+[2019-07-03T16:39:32.389] [INFO] cheese - 响应时间为0.003s
+[2019-07-03T16:39:32.405] [INFO] cheese - 响应时间为0.001s
+[2019-07-03T16:51:20.009] [INFO] cheese - 响应时间为0.003s
+[2019-07-03T16:51:20.030] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:51:23.669] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:51:23.691] [INFO] cheese - 响应时间为0.003s
+[2019-07-03T16:52:45.670] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:52:45.704] [INFO] cheese - 响应时间为0.006s
+[2019-07-03T16:52:59.209] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:53:05.080] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:53:05.097] [INFO] cheese - 响应时间为0.001s
+[2019-07-03T16:53:41.765] [INFO] cheese - 响应时间为0.001s
+[2019-07-03T16:53:41.822] [INFO] cheese - 响应时间为0.005s
+[2019-07-03T16:53:57.776] [INFO] cheese - 响应时间为0.002s
+[2019-07-03T16:53:57.781] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/Home/register","host":"localhost:3000","message":"Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
+[2019-07-03T16:54:12.700] [INFO] cheese - 响应时间为0.001s
+[2019-07-03T16:54:12.704] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.3.15","method":"GET","url":"/Home/Login","host":"localhost:3000","message":"Not Found","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
