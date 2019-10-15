@@ -27,7 +27,6 @@ app.listen(3000, async () => {
     console.log('server is running at http://localhost:3000')
 })
 
-
 //启动node服务：node app.js
 
 //PATH="$PATH":/usr/local/mysql/bin
