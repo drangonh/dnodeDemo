@@ -23,9 +23,9 @@ Middleware(app);
 router(app);
 
 app.listen(3000, async () => {
-    sqlConnect.findUserData("hl");
+    // sqlConnect.findUserData("hl");
     console.log('server is running at http://localhost:3000')
-})
+});
 
 //启动node服务：node app.js
 
