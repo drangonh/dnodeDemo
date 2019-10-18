@@ -6,7 +6,7 @@ const config = {
     database: {
         DATABASE: 'runoob',
         USERNAME: 'root',
-        PASSWORD: 'yn666666',
+        PASSWORD: 'Aabcde786676631!',
         PORT: '3306',
         HOST: 'localhost'
     }
