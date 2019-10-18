@@ -16,14 +16,14 @@ const Koa = require('koa');
 const app = new Koa();
 const router = require('./router/index');
 const Middleware = require("./middleware");
-const sqlConnect = require("./controller/mysqlConfig")
+// const sqlConnect = require("./controller/mysqlConfig")
 
 //每个请求都会走一次中间件和一次路由，中间件和路由里都会接受到上线问ctx和next参数
 Middleware(app);
 router(app);
 
 app.listen(3000, async () => {
-    sqlConnect.findUserData("hl");
+    // sqlConnect.findUserData("hl");
     console.log('server is running at http://localhost:3000')
 });
 
