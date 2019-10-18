@@ -99,6 +99,15 @@ a:hover {
     color: #fff;
     text-align: center;
 }
+
+.banner_inner>.title{
+    margin-bottom: 24px;
+    font-size: 30px;
+    line-height: 1.9;
+    color: #fff;
+    text-align: center;
+}
+
 .banner_inner>.btn{
     display: block;
     margin: 0 auto;

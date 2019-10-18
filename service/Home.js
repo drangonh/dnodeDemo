@@ -5,7 +5,7 @@
 module.exports = {
     register: async function(name, pwd) {
         let data
-        if(name == 'ikcamp' && pwd == '123456'){
+        if(name == 'cxx' && pwd == '123456'){
             data = {
                 status: 0,
                 data: {
